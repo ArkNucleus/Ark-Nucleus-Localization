@@ -1,0 +1,21 @@
+{
+    "SERVER": {
+        "HOME": {
+            "EN": "Home Page"
+        },
+        "HOME_NOTE": {
+            "EN": "Welcome to our Server!"
+        },
+        "WELCOME_TO_SERVER": {
+            "EN": "Welcome to [SERVER_NAME_HERE]!"
+        }
+    },
+    "Ark-Nucleus": {
+        "MAIN_MENU": {
+            "DE": "Test German"
+        },
+        "SERVER_INFO": {
+            "EN": "Server Info00000"
+        }
+    }
+}
