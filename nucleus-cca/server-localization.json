@@ -1,21 +1,132 @@
 {
     "SERVER": {
         "HOME": {
-            "EN": "Home Page"
+            "en": "Home Page",
+            "de": "Startseite",
+            "es": "Página de inicio",
+            "it": "Pagina iniziale",
+            "da": "Hjemmeside",
+            "nl": "Startpagina",
+            "fr": "Page d'accueil",
+            "tr": "Ana Sayfa",
+            "ko": "홈페이지",
+            "zh": "主页",
+            "zh-TW": "主頁",
+            "ja": "ホームページ",
+            "pt-BR": "Página Inicial",
+            "ru": "Домашняя страница"
         },
         "HOME_NOTE": {
-            "EN": "Welcome to our Server!"
+            "en": "Welcome to our Server!",
+            "de": "Willkommen auf unserem Server!",
+            "es": "¡Bienvenido a nuestro servidor!",
+            "it": "Benvenuti nel nostro server!",
+            "da": "Velkommen til vores server!",
+            "nl": "Welkom op onze server!",
+            "fr": "Bienvenue sur notre serveur!",
+            "tr": "Sunucumuza hoş geldiniz!",
+            "ko": "우리 서버에 오신 것을 환영합니다!",
+            "zh": "欢迎来到我们的服务器！",
+            "zh-TW": "歡迎來到我們的伺服器！",
+            "ja": "当サーバーへようこそ！",
+            "pt-BR": "Bem-vindo ao nosso servidor!",
+            "ru": "Добро пожаловать на наш сервер!"
         },
         "WELCOME_TO_SERVER": {
-            "EN": "Welcome to [SERVER_NAME_HERE]!"
-        }
-    },
-    "Ark-Nucleus": {
-        "MAIN_MENU": {
-            "DE": "Test German"
+            "en": "Welcome to [SERVER_NAME_HERE]!",
+            "de": "Willkommen auf [SERVER_NAME_HERE]!",
+            "es": "¡Bienvenido a [SERVER_NAME_HERE]!",
+            "it": "Benvenuti su [SERVER_NAME_HERE]!",
+            "da": "Velkommen til [SERVER_NAME_HERE]!",
+            "nl": "Welkom bij [SERVER_NAME_HERE]!",
+            "fr": "Bienvenue sur [SERVER_NAME_HERE]!",
+            "tr": "[SERVER_NAME_HERE]'a hoş geldiniz!",
+            "ko": "[SERVER_NAME_HERE]에 오신 것을 환영합니다!",
+            "zh": "欢迎来到[SERVER_NAME_HERE]！",
+            "zh-TW": "歡迎來到[SERVER_NAME_HERE]！",
+            "ja": "[SERVER_NAME_HERE]へようこそ！",
+            "pt-BR": "Bem-vindo ao [SERVER_NAME_HERE]!",
+            "ru": "Добро пожаловать на [SERVER_NAME_HERE]!"
         },
-        "SERVER_INFO": {
-            "EN": "Server Info00000"
+        "SERVER_SLOGAN": {
+            "en": " - Your Ultimate Ark: Survival Ascended Adventure!",
+            "de": " - Dein ultimatives Ark: Survival Ascended Abenteuer!",
+            "es": " - ¡Tu aventura definitiva de Ark: Survival Ascended!",
+            "it": " - La tua avventura definitiva di Ark: Survival Ascended!",
+            "da": " - Din ultimative Ark: Survival Ascended eventyr!",
+            "nl": " - Jouw ultieme Ark: Survival Ascended avontuur!",
+            "fr": " - Votre aventure ultime Ark: Survival Ascended!",
+            "tr": " - En İyi Ark: Survival Ascended Maceranız!",
+            "ko": " - 당신의 궁극적인 Ark: Survival Ascended 모험!",
+            "zh": " - 你的终极方舟：生存进化冒险！",
+            "zh-TW": " - 你的終極方舟：生存進化冒險！",
+            "ja": " - あなたの究極のアーク：サバイバルアセンデッドアドベンチャー！",
+            "pt-BR": " - Sua aventura definitiva de Ark: Survival Ascended!",
+            "ru": " - Ваше окончательное приключение Ark: Survival Ascended!"
+        },
+        "FAQ": {
+            "en": "FAQ",
+            "de": "FAQ",
+            "es": "Preguntas frecuentes",
+            "it": "Domande frequenti",
+            "da": "Ofte stillede spørgsmål",
+            "nl": "Veelgestelde vragen",
+            "fr": "FAQ",
+            "tr": "SSS",
+            "ko": "자주 묻는 질문",
+            "zh": "常见问题",
+            "zh-TW": "常見問題",
+            "ja": "よくある質問",
+            "pt-BR": "Perguntas frequentes",
+            "ru": "Часто задаваемые вопросы"
+        },
+        "FAQ_NOTE": {
+            "en": "Have a Question? Check our FAQ before reaching out to a moderator for help.",
+            "de": "Haben Sie eine Frage? Überprüfen Sie unsere FAQ, bevor Sie sich an einen Moderator wenden.",
+            "es": "¿Tienes una pregunta? Consulte nuestras preguntas frecuentes antes de comunicarse con un moderador para obtener ayuda.",
+            "it": "Hai una domanda? Controlla le nostre domande frequenti prima di contattare un moderatore per ottenere aiuto.",
+            "da": "Har du et spørgsmål? Tjek vores FAQ, før du kontakter en moderator for hjælp.",
+            "nl": "Heb je een vraag? Controleer onze veelgestelde vragen voordat je contact opneemt met een moderator voor hulp.",
+            "fr": "Vous avez une question? Consultez notre FAQ avant de contacter un modérateur pour obtenir de l'aide.",
+            "tr": "Bir sorunuz mu var? Yardım için bir moderatöre başvurmadan önce SSS'lerimize göz atın.",
+            "ko": "질문이 있으신가요? 도움을 요청하기 전에 FAQ를 확인하세요.",
+            "zh": "有问题吗？在向管理员寻求帮助之前，请查看我们的常见问题解答。",
+            "zh-TW": "有問題嗎？在向管理員尋求幫助之前，請查看我們的常見問題解答。",
+            "ja": "質問はありますか？助けを求める前に、FAQをチェックしてください。",
+            "pt-BR": "Tem uma pergunta? Consulte nossas perguntas frequentes antes de entrar em contato com um moderador para obter ajuda.",
+            "ru": "Есть вопрос? Проверьте наши ЧаВо перед обращением к модератору за помощью."
+        },
+        "RULES_AND_GUIDES": {
+            "en": "Rules & Guides",
+            "de": "Regeln & Anleitungen",
+            "es": "Reglas y guías",
+            "it": "Regole e guide",
+            "da": "Regler og vejledninger",
+            "nl": "Regels & Gidsen",
+            "fr": "Règles et guides",
+            "tr": "Kurallar ve Kılavuzlar",
+            "ko": "규칙 및 가이드",
+            "zh": "规则和指南",
+            "zh-TW": "規則和指南",
+            "ja": "ルールとガイド",
+            "pt-BR": "Regras e Guias",
+            "ru": "Правила и руководства"
+        },
+        "RULES_AND_GUIDES_NOTE": {
+            "en": "Don't want to get in trouble? Check our DO's and DON'Ts.",
+            "de": "Möchten Sie keine Probleme bekommen? Überprüfen Sie unsere DO's und DON'Ts.",
+            "es": "¿No quieres meterte en problemas? Consulte nuestros DO's y DON'Ts.",
+            "it": "Non vuoi avere problemi? Controlla i nostri DO's e DON'Ts.",
+            "da": "Vil du ikke komme i problemer? Tjek vores DO's og DON'Ts.",
+            "nl": "Geen problemen willen? Controleer onze DO's en DON'Ts.",
+            "fr": "Vous ne voulez pas avoir de problèmes? Consultez nos DO's et DON'Ts.",
+            "tr": "Sorun yaşamak istemiyor musunuz? DO'larımızı ve YAPMAYIN'larımızı kontrol edin.",
+            "ko": "문제를 피하고 싶으신가요? DO와 DON'T를 확인하세요.",
+            "zh": "不想惹麻烦？查看我们的 DO's 和 DON'Ts。",
+            "zh-TW": "不想惹麻煩？查看我們的 DO's 和 DON'Ts。",
+            "ja": "トラブルを避けたいですか？DOとDON'Tをチェックしてください。",
+            "pt-BR": "Não quer se meter em encrenca? Consulte nossos DO's e DON'Ts.",
+            "ru": "Не хотите попасть в неприятности? Проверьте наши DO и DON'T."
         }
     }
 }
