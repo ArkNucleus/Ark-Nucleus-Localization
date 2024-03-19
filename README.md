@@ -27,7 +27,7 @@ The supported languages are:
 - Traditional Chinese
 - Turkish
 
-Additional languages may be added in the future. 
+Additional languages may be added in the future.
 *If you would like to contribute a new language, please submit a pull request with the new language added to the `languages.json` file.*
 
 ### Localization Strings
